@@ -2,7 +2,7 @@
 
 ![alt-text](https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif)
 
-- 🔭 I’m currently working on an Flutter-based [App](https://github.com/Imperial-lord/healthapp-patients).
+- 🔭 I’m currently working on a Flutter-based [App](https://github.com/Imperial-lord/healthapp-patients).
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on Full Stack App, or Web Development Projects.
 - :sunglasses: I'm skilled in Laravel, Django, MySQL, Linux, Flutter, Git.
