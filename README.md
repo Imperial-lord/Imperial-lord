@@ -2,8 +2,8 @@
 
 ![alt-text](https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif)
 
-- 🔭 I’m currently working on a Flutter-based [App](https://github.com/Imperial-lord/healthapp-patients).
-- 🌱 I’m currently learning ReactJS.
+- 🔭 I’m currently a [MLH Fellow](https://fellowship.mlh.io/), under Explorer program of Fall'20.
+- 🌱 I’m currently learning ReactJS<a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="40"/> </a> 
 - 👯 I’m looking to collaborate on Full Stack App, or Web Development Projects.
 - :sunglasses: I'm skilled in Laravel, Django, MySQL, Linux, Flutter, Git.
 - 🎓 Languages: C, C++, Java, Dart, Python, HTML, CSS, JavaScript, PHP.
