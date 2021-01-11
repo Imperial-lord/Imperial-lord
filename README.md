@@ -50,9 +50,17 @@
 </p>
 
 ---
-### GitHub Stats
 
+### Medium Blogs ✍🏻
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/2" alt="Recent Article 2"> 
+
+---
+
+### GitHub Stats 📈
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
