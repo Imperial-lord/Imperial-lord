@@ -53,7 +53,7 @@
 
 ### Medium Blogs ✍🏻
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1" alt="Recent Article 1"> 
 
 ---
 
