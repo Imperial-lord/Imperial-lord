@@ -52,21 +52,11 @@
 ---
 
 ### Medium Blogs ✍🏻
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://absatyaprakash01.medium.com/mlh-fellowship-experience-part-2-567c2fafb13e"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0" alt="Recent Article 0">
+<a target="_blank" href="https://absatyaprakash01.medium.com/mlh-fellowship-experience-part-1-99adb232a82a"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1" alt="Recent Article 1">
 
 ---
 
 ### GitHub Stats 📈
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-[website]: https://imperial-lord.github.io/mywebsite/
-[flutter-web]: https://flutter.dev/web
-[hylophobia]: https://phobia.wikia.org/wiki/Hylophobia
-[linkedin]: https://www.linkedin.com/in/absatya/
-[facebook]: https://www.facebook.com/ab.satyaprakash/
-[twitter]: https://twitter.com/AbSatyaprakash
-[instagram]: https://www.instagram.com/ab_iitg/
