@@ -1,14 +1,14 @@
-# Hi there! I'm AB - aka [Imperial-lord](website) 👋🏻
+# Hi there! I'm AB - aka [Imperial-lord](https://imperial-lord.github.io/mywebsite/) 👋🏻
 ![alt-text](https://i.ibb.co/dkpmT5d/code.jpg)
 
 ## I am a Student, Software Developer, and Competitive Programmer!
 ---
 
-- 🔭 I’m currently working on a [Flutter Web](flutter-web) based project
+- 🔭 I’m currently working on a [Flutter Web](https://flutter.dev/web) based project
 - 🌱 I’m currently learning everything 👨🏻‍🎓
 - 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships
 - 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, essays, and play badminton
-- 😝 Fun-Fact: I suffer from [hylophobia](hylophobia)
+- 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia)
 
 ---
 
@@ -18,10 +18,10 @@
 ---
 
 ### Connect with me 🤝🏻
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absatya/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ab.satyaprakash/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbSatyaprakash)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab_iitg/)
 
 ---
 
