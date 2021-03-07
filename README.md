@@ -63,5 +63,5 @@
 ---
 
 ### GitHub Stats 📈
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperial-lord&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
