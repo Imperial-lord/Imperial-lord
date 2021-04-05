@@ -4,7 +4,7 @@
 ## I am a Student, Software Developer, and Competitive Programmer!
 ---
 
-- 🔭 I’m currently working on a [Flutter Web](https://flutter.dev/web) based project
+- 🔭 I’m currently working on a [Flutter](https://flutter.dev) project
 - 🌱 I’m currently learning everything 👨🏻‍🎓
 - 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships
 - 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, essays, and play badminton
@@ -58,6 +58,7 @@
 ---
 
 ### Youtube Videos 📺
+[![[SOC] Workshop on Flutter](http://i3.ytimg.com/vi/iTf_W2J6LnI/hqdefault.jpg)](https://www.youtube.com/watch?v=iTf_W2J6LnI)
 [![Flutter Web App Hosting with Firebase](https://img.youtube.com/vi/RrzAzYjS0Ok/0.jpg)](https://www.youtube.com/watch?v=RrzAzYjS0Ok)
 
 ---
