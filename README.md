@@ -1,5 +1,5 @@
+![dashatar](https://i.ibb.co/VBWGjZz/image.png)
 # Hi there! I'm AB - aka [Imperial-lord](https://imperial-lord.github.io/mywebsite/) 👋🏻
-![alt-text](https://i.ibb.co/dkpmT5d/code.jpg)
 
 ## I am a Student, Software Developer, and Competitive Programmer!
 ---
