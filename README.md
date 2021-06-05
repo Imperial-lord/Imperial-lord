@@ -4,7 +4,7 @@
 ## I am a Student, Software Developer, and Competitive Programmer!
 ---
 
-- 🔭 I’m currently working on a [Flutter](https://flutter.dev) project
+- 🔭 I’m currently working with [Oracle Cloud HCM](https://www.oracle.com/in/human-capital-management/) 
 - 🌱 I’m currently learning everything 👨🏻‍🎓
 - 👯 I’m looking to collaborate on Hackathons, Open-Source Projects, or Internships
 - 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, essays, and play badminton
