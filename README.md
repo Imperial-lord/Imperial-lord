@@ -51,10 +51,12 @@
 
 ---
 
-### Medium Blogs ✍🏻
+### Recent Medium Blogs ✍🏻
 <a target="_blank" href="https://absatyaprakash01.medium.com/mlh-fellowship-experience-part-2-567c2fafb13e"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/0" alt="Recent Article 0">
 <a target="_blank" href="https://absatyaprakash01.medium.com/mlh-fellowship-experience-part-1-99adb232a82a"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@absatyaprakash01/1" alt="Recent Article 1">
-
+<br>
+[more...](https://absatyaprakash01.medium.com/)
+  
 ---
 
 ### Youtube Videos 📺
