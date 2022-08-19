@@ -7,8 +7,8 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently working with at [Oracle](https://www.oracle.com) with their [AI Apps](https://www.oracle.com/in/artificial-intelligence/ai-apps/) team.
-- 🌱 I’m currently learning Spring Boot. 👨🏻‍🎓
-- 💼 I'll am open to freelancing projects.
+- 🌱 I’m currently learning Spring Boot. 
+- 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, essays, and play badminton!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
 
@@ -62,7 +62,7 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ---
 
-### Youtube Videos 📺
+### 📽 Youtube Videos
 
 <!-- YOUTUBE:START -->
 - [Deploy an ML Model with Fast API and AWS | Part 02](https://www.youtube.com/watch?v=o9TOERzCneI)
@@ -84,7 +84,7 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ---
 
-### GitHub Stats 📈
+### 📈 GitHub Stats 
 
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperial-lord&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
