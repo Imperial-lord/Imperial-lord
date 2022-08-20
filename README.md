@@ -9,7 +9,7 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 - 🔭 I’m currently working with at [Oracle](https://www.oracle.com) with their [AI Apps](https://www.oracle.com/in/artificial-intelligence/ai-apps/) team.
 - 🌱 I’m currently learning Spring Boot. 
 - 💼 I'm open to freelancing projects.
-- 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, essays, and play badminton!
+- 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, and play badminton!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
 
 ---
@@ -20,6 +20,7 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@absatyaprakash)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbSatyaprakash)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/absatyaprakash/)
 
 ---
 
@@ -78,13 +79,13 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ### ✍🏻 Medium Blogs
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=2)](https://medium.com/@absatyaprakash)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=3)](https://medium.com/@absatyaprakash)
 
-[➡️ See more blogs on Medium](https://absatyaprakash01.medium.com/)
+[➡️ more blogs...](https://absatyaprakash01.medium.com/)
 
 ---
 
 ### 📈 GitHub Stats 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperial-lord&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
