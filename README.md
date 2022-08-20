@@ -65,7 +65,7 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ---
 
-### 📽 Youtube Videos
+### 📽 YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Deploy an ML Model with Fast API and AWS | Part 02](https://www.youtube.com/watch?v=o9TOERzCneI)
@@ -81,7 +81,7 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ### ✍🏻 Medium Blogs
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=3)](https://medium.com/@absatyaprakash)
+[![AB Satyaprakash Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=3)](https://medium.com/@absatyaprakash)
 
 [➡️ more blogs...](https://absatyaprakash01.medium.com/)
 
