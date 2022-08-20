@@ -2,6 +2,10 @@
 
 I'm AB Satyaprakash. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 
+<a href="https://www.buymeacoffee.com/absatyaprakash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+ 
+<a href='https://ko-fi.com/S6S8D5H4B' target='_blank'><img height='41' width='174' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ---
 
 ### ⚡️ A quick introduction
