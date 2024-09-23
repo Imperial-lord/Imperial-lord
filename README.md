@@ -26,12 +26,6 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ---
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.imperial-lord.vercel.app/api/spotify)](https://open.spotify.com/user/imperial-lord)
-
----
-
 ### 💻 Languages, Frameworks, Tools
 
 <p float="left">
