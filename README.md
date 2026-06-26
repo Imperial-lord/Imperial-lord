@@ -8,8 +8,8 @@ I'm AB Satyaprakash. I work as a software engineer during the day. At night, I s
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at [Oracle](https://www.oracle.com) with their [AI Apps](https://www.oracle.com/in/artificial-intelligence/ai-apps/) team.
-- 🌱 I’m currently learning Spring Boot. 
+- 🔭 I’m currently working with at [Uber](https://www.uber.com) with their Hailables team.
+- 🌱 I’m currently learning to build and maintain projects at scale. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, and play badminton!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
